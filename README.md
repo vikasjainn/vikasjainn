@@ -10,7 +10,7 @@ Pursuing Computer Science engineering with hands-on experience. working with: Ja
 <img src="https://user-images.githubusercontent.com/75531528/152545832-d214dd8e-ef35-469e-9f76-877b319af27a.gif" width="200" align="right" >
 * ✉️  You can contact me at [jainv6644@gmail.com](mailto:jainv6644@gmail.com)
 * 🧠  I keep learning new technologies
-* 🤝  I'm open to collaborating on Website Development
+* 🤝  I'm open to collaborating on Website Development & DevOps
 
 ### Skills
 
