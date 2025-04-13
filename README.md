@@ -1,5 +1,4 @@
 <img src="https://raw.githubusercontent.com/itstommi/itstommi/main/Rainbow.gif" width="100%">
-<img src="https://github.com/user-attachments/assets/d27e70e3-e8fc-48e5-b904-2c9f8cfc7057" width="100%">
 
 Hi 👋 My name is Vikas Jain
 =============================
