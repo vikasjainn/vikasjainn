@@ -6,7 +6,7 @@ Full Stack Software Engineer
 -------------
 
 Pursuing Computer Science engineering with hands-on experience. working with: JavaScript. Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals.
-<img src="(https://github.com/user-attachments/assets/58f4b7b1-5787-4ff3-a396-651baa412c07" width="300" align="right" >
+<img src="https://github.com/user-attachments/assets/58f4b7b1-5787-4ff3-a396-651baa412c07" width="300" align="right" >
 
 
 * ✉️  You can contact me at [jainv6644@gmail.com](mailto:jainv6644@gmail.com)
