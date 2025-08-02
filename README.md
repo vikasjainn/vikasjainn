@@ -3,12 +3,12 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&color=FF5C00&center=true&vCenter=true&width=460&lines=Software+Engineer;Architecting+Scalable+Systems;DevOps+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&color=FF5C00&center=true&vCenter=true&width=500&lines=Software+Engineer;Architecting+Scalable+Systems;DevOps+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="mailto:jainv6644@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=vikasjainn&style=flat-square&color=brightgreen">
+  <a href="mailto:jainv6644@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <img src="https://komarev.com/ghpvc/?username=vikasjainn&style=flat-square&color=brightgreen" alt="Profile Views">
 </p>
 
 ---
@@ -23,10 +23,10 @@ I am a passionate **Software Engineer** with a foundation in Computer Science, d
 
 I believe in a first-principles approach, focusing on creating solutions that are not only functional but also elegant and maintainable.
 
-- 🔭 I’m currently focused on **high-level system design** and **distributed architecture patterns**.
-- 🌱 I’m passionate about the entire software development lifecycle, from initial concept to deployment and beyond.
-- 👯 I’m looking to collaborate on projects that require deep analytical thinking and creative engineering solutions.
-- 💬 Ask me about **software architecture, problem-solving methodologies, or building for scale**.
+- 🔭 Currently focused on **high-level system design** and **distributed architecture patterns**.
+- 🌱 Passionate about the entire SDLC — from concept to deployment.
+- 👯 Looking to collaborate on projects that require deep analytical thinking and creative engineering.
+- 💬 Ask me about **software architecture, scalability, and DevOps best practices**.
 
 </td>
 <td valign="top" width="40%">
@@ -35,33 +35,32 @@ I believe in a first-principles approach, focusing on creating solutions that ar
 
 **Languages:**
 <p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <a href="https://go.dev/doc/"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+  <a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://en.cppreference.com/w/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
 </p>
 
 **Cloud & Backend:**
 <p>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <a href="https://cloud.google.com/docs"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"></a>
+  <a href="https://firebase.google.com/docs"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"></a>
+  <a href="https://nodejs.org/en/docs/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"></a>
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"></a>
 </p>
 
 **Frontend:**
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+  <a href="https://reactjs.org/docs/getting-started.html"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></a>
+  <a href="https://nextjs.org/docs"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"></a>
 </p>
 
 **Tools & Platforms:**
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <a href="https://docs.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
+  <a href="https://git-scm.com/doc"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
 </p>
+
 </td>
 </tr>
 </table>
-
-
