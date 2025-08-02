@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="mailto:jainv6644@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/vikas-jain-69255a22a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <img src="https://komarev.com/ghpvc/?username=vikasjainn&style=flat-square&color=brightgreen">
 </p>
 
@@ -29,10 +28,6 @@ I believe in a first-principles approach, focusing on creating solutions that ar
 - 👯 I’m looking to collaborate on projects that require deep analytical thinking and creative engineering solutions.
 - 💬 Ask me about **software architecture, problem-solving methodologies, or building for scale**.
 
-<br>
-
-**My Weekly Coding Activity**
-> 📊 *Enable the WakaTime workflow to see a summary of my coding hours here!*
 </td>
 <td valign="top" width="40%">
 
