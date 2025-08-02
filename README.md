@@ -1,13 +1,10 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Jx5/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </div>
 
 <div id="badges" align="center">
    <a href="mailto:jainv6644@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-   <a href="[YOUR_LINKEDIN_URL]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
@@ -79,5 +76,5 @@ Here are some of the technologies I work with:
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vikasjainn/vikasjainn/output/github-contribution-grid-snake.svg" alt="snake"></p>
+  <img src="https://raw.githubusercontent.com/vikasjainn/vikasjainn/output/github-contribution-grid-snake.svg" alt="snake animation"></p>
 </p>
