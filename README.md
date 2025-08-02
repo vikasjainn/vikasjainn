@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG04Z3Zzd3p0dXVmMzJ4bTducHV3b3MxZ2o1ZzZ6dTE1c3JieThpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpY2E/giphy.gif" width="400" />
   <h1>Hi there, I'm Vikas Jain 👋</h1>
 </div>
 
@@ -65,12 +64,4 @@ I believe in a first-principles approach, focusing on creating solutions that ar
 </tr>
 </table>
 
----
 
-### 🔥 My GitHub Stats & Activity
-
-> ⚡ *Enable the Recent Activity workflow to see my latest GitHub actions here!*
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikasjainn&show_icons=true&theme=dracula&border_color=8A2BE2&rank_icon=github" alt="Vikas Jain's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasjainn&layout=compact&theme=dracula&border_color=8A2BE2" alt="Top Languages" />
-</p>
