@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&color=3399FF&center=true&vCenter=true&width=460&lines=Go+(Golang)+Developer;Cloud+&+Backend+Engineer;DevOps+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&color=3399FF&center=true&vCenter=true&width=460&lines=Software+Engineer;Architecting+Scalable+Systems;DevOps+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,14 +20,14 @@
 
 ### 👨‍💻 About Me
 
-I am a skilled **Go (Golang) Developer** specializing in building high-performance, scalable backend services. With deep expertise in the **Google Cloud Platform (GCP)** and **Firebase**, I architect and deploy robust, cloud-native solutions.
+I am a passionate **Software Engineer** with a foundation in Computer Science, driven by the challenge of solving complex problems. My expertise lies in architecting and building robust, scalable systems from the ground up.
 
-My focus is on writing clean, efficient code and leveraging modern DevOps principles to create impactful and resilient software.
+I believe in a first-principles approach, focusing on creating solutions that are not only functional but also elegant and maintainable.
 
-- 🔭 I’m currently architecting microservices with **Go** and deploying on **Google Cloud**.
-- 🌱 I’m passionate about system design, distributed systems, and serverless technologies.
-- 👯 I’m looking to collaborate on high-impact backend and cloud projects.
-- 💬 Ask me about **Go, GCP, Firebase, or building scalable APIs**.
+- 🔭 I’m currently focused on **high-level system design** and **distributed architecture patterns**.
+- 🌱 I’m passionate about the entire software development lifecycle, from initial concept to deployment and beyond.
+- 👯 I’m looking to collaborate on projects that require deep analytical thinking and creative engineering solutions.
+- 💬 Ask me about **software architecture, problem-solving methodologies, or building for scale**.
 
 <br>
 
