@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&color=3399FF&center=true&vCenter=true&width=460&lines=Full+Stack+Software+Engineer;DevOps+Enthusiast;Building+Scalable+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&color=3399FF&center=true&vCenter=true&width=460&lines=Go+(Golang)+Developer;Cloud+&+Backend+Engineer;DevOps+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,12 +20,14 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Full Stack Software Engineer** from India 🇮🇳, currently pursuing my degree in Computer Science. I'm passionate about architecting robust solutions and exploring the intersection of development and operations.
+I am a skilled **Go (Golang) Developer** specializing in building high-performance, scalable backend services. With deep expertise in the **Google Cloud Platform (GCP)** and **Firebase**, I architect and deploy robust, cloud-native solutions.
 
-- 🔭 I’m currently working on enhancing my cloud and containerization skills.
-- 🌱 I’m always learning about backend optimization and system design.
-- 👯 I’m looking to collaborate on impactful open-source projects.
-- 💬 Ask me about **React, Node.js, and DevOps practices**.
+My focus is on writing clean, efficient code and leveraging modern DevOps principles to create impactful and resilient software.
+
+- 🔭 I’m currently architecting microservices with **Go** and deploying on **Google Cloud**.
+- 🌱 I’m passionate about system design, distributed systems, and serverless technologies.
+- 👯 I’m looking to collaborate on high-impact backend and cloud projects.
+- 💬 Ask me about **Go, GCP, Firebase, or building scalable APIs**.
 
 <br>
 
@@ -38,23 +40,24 @@ I'm a **Full Stack Software Engineer** from India 🇮🇳, currently pursuing m
 
 **Languages:**
 <p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</p>
+
+**Cloud & Backend:**
+<p>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 </p>
 
 **Frontend:**
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-</p>
-
-**Backend:**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 </p>
 
 **Tools & Platforms:**
