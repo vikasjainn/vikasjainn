@@ -63,12 +63,3 @@ I believe in a first-principles approach, focusing on creating solutions that ar
 </td>
 </tr>
 </table>
-
----
-
-### 🔥 My GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikasjainn&show_icons=true&theme=dracula&border_color=8A2BE2&rank_icon=github" alt="Vikas Jain's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasjainn&layout=compact&theme=dracula&border_color=8A2BE2" alt="Top Languages" />
-</p>
