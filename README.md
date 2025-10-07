@@ -6,10 +6,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&color=FF5C00&center=true&vCenter=true&width=500&lines=Software+Engineer;Architecting+Scalable+Systems;DevOps+Enthusiast" alt="Typing SVG" />
 </p>
 
-<!-- ✅ Professional Email Button -->
+<!-- ✉️ Modern Email Button -->
 <p align="center">
   <a href="mailto:jainv6644@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/✉️%20Write%20me%20an%20Email%20to%20Hire%20me%20or%20Collaborate-FF5C00?style=for-the-badge&logo=gmail&logoColor=white" alt="Write me an Email">
+    <img 
+      src="https://img.shields.io/badge/✉️%20Write%20me%20an%20Email%20to%20Hire%20me%20or%20Collaborate-ff5c00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ff7847" 
+      alt="Email Vikas Jain"
+    />
   </a>
 </p>
 
