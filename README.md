@@ -7,10 +7,17 @@
 </p>
 
 <p align="center">
-  <a href="mailto:jainv6644@gmail.com" target="_blank" rel="noopener noreferrer">
-    <button style="background-color:#FF5C00;color:white;border:none;padding:12px 20px;border-radius:8px;font-size:16px;cursor:pointer;transition:0.3s;">
-      ✉️ Write me an Email to Hire me or Collaborate
-    </button>
+  <a href="mailto:jainv6644@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+    <span style="
+      display:inline-block;
+      background-color:#FF5C00;
+      color:#fff;
+      padding:12px 22px;
+      border-radius:8px;
+      font-size:16px;
+      font-weight:600;
+      transition:all 0.3s ease;
+    ">✉️ Write me an Email to Hire me or Collaborate</span>
   </a>
 </p>
 
