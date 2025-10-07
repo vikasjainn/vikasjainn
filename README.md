@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:jainv6644@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Wrire me an Email">
   </a>
 </p>
 
