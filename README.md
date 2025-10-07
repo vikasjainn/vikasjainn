@@ -10,7 +10,7 @@
 <p align="center">
   <a href="mailto:jainv6644@gmail.com" target="_blank" rel="noopener noreferrer">
     <img 
-      src="https://img.shields.io/badge/✉️%20Write%20me%20an%20Email%20to%20Hire%20me%20or%20Collaborate-ff5c00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ff7847" 
+      src="https://img.shields.io/badge/%20Write%20me%20an%20Email%20to%20Hire%20me%20or%20Collaborate-ff5c00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ff7847" 
       alt="Email Vikas Jain"
     />
   </a>
