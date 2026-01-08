@@ -44,10 +44,10 @@ I believe in a first-principles approach, focusing on creating solutions that ar
 
 **Languages:**  
 <p>
-  <a href="https://go.dev/doc/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
   <a href="https://docs.python.org/3/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
   <a href="https://en.cppreference.com/w/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
+  <a href="https://go.dev/doc/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"></a>
 </p>
 
 **Cloud & Backend:**  
