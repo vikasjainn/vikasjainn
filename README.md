@@ -50,18 +50,18 @@ I believe in a first-principles approach, focusing on creating solutions that ar
   <a href="https://go.dev/doc/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"></a>
 </p>
 
+**Frontend:**  
+<p>
+  <a href="https://reactjs.org/docs/getting-started.html" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></a>
+  <a href="https://nextjs.org/docs" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"></a>
+</p>
+
 **Cloud & Backend:**  
 <p>
   <a href="https://cloud.google.com/docs" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"></a>
   <a href="https://firebase.google.com/docs" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"></a>
   <a href="https://nodejs.org/en/docs/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"></a>
   <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"></a>
-</p>
-
-**Frontend:**  
-<p>
-  <a href="https://reactjs.org/docs/getting-started.html" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"></a>
 </p>
 
 **Tools & Platforms:**  
