@@ -66,9 +66,26 @@ I believe in a first-principles approach, focusing on creating solutions that ar
 
 **Tools & Platforms:**  
 <p>
-  <a href="https://docs.docker.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
-  <a href="https://git-scm.com/doc" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+  <a href="https://docs.docker.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  </a>
+  <a href="https://git-scm.com/doc" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  </a>
+  <a href="https://docs.github.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://docs.gitlab.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=black" alt="GitLab">
+  </a>
+  <a href="https://www.postman.com/docs/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman API">
+  </a>
+  <a href="https://help.figma.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  </a>
 </p>
+
 
 </td>
 </tr>
