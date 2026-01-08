@@ -89,7 +89,7 @@ I believe in a first-principles approach, focusing on creating solutions that ar
 
   <!-- Figma (custom neon teal) -->
   <a href="https://help.figma.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Figma-00E5CC?style=for-the-badge&logo=figma&logoColor=black" alt="Figma">
+    <img src="https://img.shields.io/badge/Figma-FFB6C1?style=for-the-badge&logo=figma&logoColor=black" alt="Figma">
   </a>
 </p>
 
