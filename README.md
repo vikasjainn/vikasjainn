@@ -16,9 +16,9 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vikasjainn&style=flat-square&color=brightgreen" alt="Profile Views">
-</p>
+</p> -->
 
 ---
 
